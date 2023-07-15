@@ -63,3 +63,11 @@ p {
   font-size: 20px;
   font-weight: bolder;
 } */
+
+
+@media only screen and (max-width: 604px) {
+  .book {
+    width: 80%;
+  height: 100%;
+  }
+}
